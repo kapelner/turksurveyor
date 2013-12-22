@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/app/views/surveyor_responses
+END
+_multiple_of_many_as_boxes_responses.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/app/views/surveyor_responses/_multiple_of_many_as_boxes_responses.html.erb
+END
+_free_response_small_responses.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/app/views/surveyor_responses/_free_response_small_responses.html.erb
+END
+_free_response_large_responses.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/app/views/surveyor_responses/_free_response_large_responses.html.erb
+END
+_one_of_many_responses.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/app/views/surveyor_responses/_one_of_many_responses.html.erb
+END
+_likert_scale_responses.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/app/views/surveyor_responses/_likert_scale_responses.html.erb
+END
+_multiple_of_many_responses.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/app/views/surveyor_responses/_multiple_of_many_responses.html.erb
+END

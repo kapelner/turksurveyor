@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/vendor/plugins/asset_packager/lib/synthesis
+END
+asset_package_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/plugins/asset_packager/lib/synthesis/asset_package_helper.rb
+END
+asset_package.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/vendor/plugins/asset_packager/lib/synthesis/asset_package.rb
+END

@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 162
+preamble.aux
+preamble.log
+turksurveyor.aux
+turksurveyor.bbl
+turksurveyor.blg
+turksurveyor.dvi
+turksurveyor.log
+turksurveyor.out
+turksurveyor.pdf
+turksurveyor.toc
+
+END

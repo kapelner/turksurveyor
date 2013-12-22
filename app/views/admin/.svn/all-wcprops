@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/app/views/admin
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/app/views/admin/index.html.erb
+END
+versions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/app/views/admin/versions.html.erb
+END
+_raw_data_and_histogram_support.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/app/views/admin/_raw_data_and_histogram_support.html.erb
+END
+_pay_and_or_bonus_or_reject.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/app/views/admin/_pay_and_or_bonus_or_reject.html.erb
+END
+investigate_attrition.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/app/views/admin/investigate_attrition.html.erb
+END
+_num_words_feedback.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/app/views/admin/_num_words_feedback.html.erb
+END
+comments_page.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/app/views/admin/comments_page.html.erb
+END
+_display_t_and_p_value_and_power.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/app/views/admin/_display_t_and_p_value_and_power.html.erb
+END
+_investigate_all_questions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/app/views/admin/_investigate_all_questions.html.erb
+END
+dashboard.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/app/views/admin/dashboard.html.erb
+END
+_admin_links.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/app/views/admin/_admin_links.html.erb
+END
+_display_z_and_p_value_and_power.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/app/views/admin/_display_z_and_p_value_and_power.html.erb
+END
+_create_hits.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/app/views/admin/_create_hits.html.erb
+END
+_all_hits.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/app/views/admin/_all_hits.html.erb
+END
+_dashboard_header.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/app/views/admin/_dashboard_header.html.erb
+END
+investigate_survey.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/app/views/admin/investigate_survey.html.erb
+END
+_email_workers.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/app/views/admin/_email_workers.html.erb
+END
+_treatment_links_and_all_hits.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/app/views/admin/_treatment_links_and_all_hits.html.erb
+END
+_survey_notes.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/app/views/admin/_survey_notes.html.erb
+END
+buggy_hits.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/app/views/admin/buggy_hits.html.erb
+END

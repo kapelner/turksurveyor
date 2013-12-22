@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/2/trunk/lib
+END
+survey_m_turk.rb
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/lib/survey_m_turk.rb
+END
+survey_need_for_cognition_questions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/lib/survey_need_for_cognition_questions.rb
+END
+survey_true_and_check_questions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/lib/survey_true_and_check_questions.rb
+END
+survey_customization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/lib/survey_customization.rb
+END
+survey_randomization_support.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/lib/survey_randomization_support.rb
+END
+survey_customization_private_header.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/lib/survey_customization_private_header.rb
+END
+admin_authentication.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/lib/admin_authentication.rb
+END
+survey_miscellaneous_questions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/lib/survey_miscellaneous_questions.rb
+END
+survey_customization_private_footer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/lib/survey_customization_private_footer.rb
+END
+data_dump.rb
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/lib/data_dump.rb
+END
+basic_m_turk.rb
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/lib/basic_m_turk.rb
+END
+survey_demographic_questions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/lib/survey_demographic_questions.rb
+END
+encryption_tools.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/lib/encryption_tools.rb
+END
+statistics_tools.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/lib/statistics_tools.rb
+END
+survey_instructional_manipulation_checks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/lib/survey_instructional_manipulation_checks.rb
+END

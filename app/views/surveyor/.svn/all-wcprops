@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/app/views/surveyor
+END
+_render_one_question.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/app/views/surveyor/_render_one_question.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/app/views/surveyor/index.html.erb
+END
+survey_completed.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/app/views/surveyor/survey_completed.html.erb
+END
+wrong_user.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/app/views/surveyor/wrong_user.html.erb
+END
+_question_header.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/app/views/surveyor/_question_header.html.erb
+END
+did_a_survey_previously.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/app/views/surveyor/did_a_survey_previously.html.erb
+END
+_active_inactive_browser.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/app/views/surveyor/_active_inactive_browser.html.erb
+END
+_basic_directions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/app/views/surveyor/_basic_directions.html.erb
+END
+_oppenheimer_imc_check_html.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/app/views/surveyor/_oppenheimer_imc_check_html.html.erb
+END
+disqualified.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/app/views/surveyor/disqualified.html.erb
+END
+_preview_hit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/app/views/surveyor/_preview_hit.html.erb
+END
