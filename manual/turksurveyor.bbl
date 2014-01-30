@@ -1,0 +1,38 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cacioppo et~al.(1984)Cacioppo, Petty, and Kao]{Cacioppo1984}
+JT~Cacioppo, RE~Petty, and CF~Kao.
+\newblock {The efficient assessment of need for cognition}.
+\newblock \emph{Journal of Personality Assessment}, 48\penalty0 (3):\penalty0
+  306--307, 1984.
+\newblock URL \url{http://www.informaworld.com/index/785038000.pdf}.
+
+\bibitem[Kapelner and Chandler(2010)]{KapelnerChandler2010}
+Adam Kapelner and Dana Chandler.
+\newblock Preventing satisficing in online surveys: A ``kapcha'' to ensure
+  higher quality data.
+\newblock \emph{CrowdConf ACM Proceedings}, 2010.
+
+\bibitem[Oppenheimer et~al.(2009)Oppenheimer, Meyvis, and Davidenko]{Opp09}
+Daniel~M. Oppenheimer, Tom Meyvis, and Nicolas Davidenko.
+\newblock {Instructional manipulation checks: Detecting satisficing to increase
+  statistical power}.
+\newblock \emph{Journal of Experimental Social Psychology}, 45\penalty0
+  (4):\penalty0 867--872, July 2009.
+\newblock ISSN 00221031.
+\newblock \doi{10.1016/j.jesp.2009.03.009}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0022103109000766}.
+
+\bibitem[Thaler(1985)]{Thaler1985}
+Richard Thaler.
+\newblock {Mental Accounting and Consumer Choice}.
+\newblock \emph{Marketing Science}, 4\penalty0 (3):\penalty0 199 -- 214, 1985.
+\newblock URL \url{http://www.jstor.org/stable/183904}.
+
+\end{thebibliography}

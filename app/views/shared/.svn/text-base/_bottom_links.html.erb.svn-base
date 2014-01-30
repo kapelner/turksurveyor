@@ -1,3 +1,0 @@
-<% if logged_in? %>
-  <%= link_to 'logout', :controller => :admin, :action => :logout %>
-<% end %>
