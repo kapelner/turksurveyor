@@ -81,7 +81,7 @@ class Survey < ActiveRecord::Base
 
   def Survey.question_object_with_respondent_data(sq, i = nil)
     #first find the data
-    q = AllQuestions.detect{|q| q[:signature] == sq.signature}
+    q = AllQuestions.detect{|qi| qi[:signature] == sq.signature}
     raise "no question found for signature |#{sq.signature}|" if q.nil?
     #now add the respondent data for convenience
     q[:responses] = sq.responses
